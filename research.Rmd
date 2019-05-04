@@ -13,9 +13,7 @@ My research projects and publications can be found on [Google scholar](https://s
 
 #### Working Papers
 * **Liang, F.** (2019). New Silk Road on Facebook: How China’s Official Media Report and Frame National Initiative for Global Audiences. 
-
 * **Liang, F.**, Zhu, Q., Weeks, B. E., & Kwak, N. (2019). From Online Credibility to Political Deliberation: How Credibility Perception and Technological Competence Predict Cross-Cutting Discussion.
-
 * **Liang, F.** (2019). Who Tweets About Authoritarian Politics? Political Discussion and Online Bots During ChinaÕs 19th National Congress.
-
 * **Liang, F.** & Hussain, M. M. (2018). Spreading China's Voice via Facebook: China’s Media Bias on Global Platform.
+* Kostyuk, N., Chen, W., Das, V., **Liang, F.**, & Hussain, M. M. (2017). [High-Tech Governance Through Big Data Surveillance: Tracing the Global Deployment of Mass Surveillance Infrastructures, 1995 to Present](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3030347).
