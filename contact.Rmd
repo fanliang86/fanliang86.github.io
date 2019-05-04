@@ -3,9 +3,10 @@
   
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-**Contact Me**
+#### Contact
 
-North Quad, Room 5337<br>
+5337 North Quad <br>
 105 South State Street<br>
 Ann Arbor, MI 48109-1285<br>
 fanliang@umich.edu<br>
+Twitter: [fanliang86](https://twitter.com/fanliang86)

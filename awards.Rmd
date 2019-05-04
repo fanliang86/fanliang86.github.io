@@ -3,7 +3,6 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-## Awards
 
 #### Best Paper
 * Top Student Paper Award from International Communication Association (ICA) Public Diplomacy Interest Group (May 2018)

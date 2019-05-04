@@ -3,17 +3,14 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-## Peer-Reviewed Publications
+#### Peer-Reviewed Publications
 
 * Lane, D. S., Lee, S. S., **Liang, F.**, Kim, D. H., Shen, L., Weeks, B. E., & Kwak, N. (2019). [Social Media Expression and the Political Self](https://academic.oup.com/joc/article-abstract/69/1/49/5288675). *Journal of Communication, 69*(1), 49-72. 
-
 * **Liang, F**., Das, V., Kostyuk, N., & Hussain, M. M. (2018). [Constructing a Data‐Driven Society: China's Social Credit System as a State Surveillance Infrastructure](https://onlinelibrary.wiley.com/doi/abs/10.1002/poi3.183). *Policy & Internet, 10*(4), 415-453.
-
 * Kwak, N., Lane, D. S., Lee, S. S., **Liang, F.**, & Weeks, B. E. (2018). [From persuasion to deliberation: Do experiences of online political persuasion facilitate dialogic openness?](https://journals.sagepub.com/doi/full/10.1177/0093650218793050). *Communication research*, 1-23.
-
 * Kostyuk, N., Chen, W., Das, V., **Liang, F.**, & Hussain, M. M. (2017). [High-Tech Governance Through Big Data Surveillance: Tracing the Global Deployment of Mass Surveillance Infrastructures, 1995 to Present](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3030347). *SSRN*, 1-38.
 
-# Conference Presentations
+#### Conference Presentations
 * The 5th International Conference on Computational Social Science, July 17-20, 2019. University of Amsterdam, The Netherlands.
 * International Communication Association (ICA) Annual Conference, May 24-28, 2019. Washington, D.C.
 * International Association for Media and Communication Research (IAMCR) Annual Conference. June 20 - 24, 2018. University of Oregon, Eugene, OR.
