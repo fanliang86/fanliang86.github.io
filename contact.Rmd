@@ -4,7 +4,6 @@ title: "Contact"
   
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-#### Contact
 
 5337 North Quad <br>
 105 South State Street<br>

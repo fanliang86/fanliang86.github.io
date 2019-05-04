@@ -4,7 +4,6 @@ title: "Teaching"
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-#### Teaching
 
 Graduate Student Instructor (GSI) at the University of Michigan:
 

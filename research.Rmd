@@ -4,7 +4,6 @@ title: "Research"
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-#### Research
 
 Broadly construed, I am interested in: 1) the use of machine learning algorithms and data science techniques in communication research; 2) the diffusion and manipulation of political information on social media; and 3) the roles that Information and Communications Technology (ICT) and big data play in shaping governance and surveillance.
 

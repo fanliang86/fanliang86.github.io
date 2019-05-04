@@ -4,6 +4,5 @@ title: "CV"
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-#### CV
 
 My CV is available [here](https://www.lsa.umich.edu/content/dam/michigan-lsa/people-update/cv/fanliang-03292019-194015-CVFanLiang.pdf)
