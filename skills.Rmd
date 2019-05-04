@@ -1,0 +1,11 @@
+
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+## Skills
+
+* Data Analytics: R, Python, SAS, MATLAB, Octave, SPSS
+* Cloud Computing: Hadoop, Spark, TensorFlow
+* Others: HTML, MySQL, Tableau, Gephi
