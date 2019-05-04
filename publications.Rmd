@@ -16,7 +16,7 @@
 # Conference Presentations
 * The 5th International Conference on Computational Social Science, July 17-20, 2019. University of Amsterdam, The Netherlands.
 * International Communication Association (ICA) Annual Conference, May 24-28, 2019. Washington, D.C.
-* International Association for Media and Communication Research (IAMCR) Annual Conference. June 20 - 24, 2018. University of Oregon, Eugene, Oregon, USA
+* International Association for Media and Communication Research (IAMCR) Annual Conference. June 20 - 24, 2018. University of Oregon, Eugene, OR.
 * International Communication Association (ICA) Annual Conference, May 24-28, 2018. Prague, the Czech Republic.
 * The 16th Chinese Internet Research Conference. May 22-23, 2018. Leiden University, Netherlands.
 * Digital Transformation in China – Recent Trends and Impacts. January 19, 2018. Freie Universität Berlin, Berlin, Germany.
