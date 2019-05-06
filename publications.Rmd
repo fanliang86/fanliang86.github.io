@@ -4,7 +4,7 @@ title: "Publications"
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-#### Peer-Reviewed Publications
+#### Peer-Reviewed Journals
 
 * Lane, D. S., Lee, S. S., **Liang, F.**, Kim, D. H., Shen, L., Weeks, B. E., & Kwak, N. (2019). [Social Media Expression and the Political Self](https://academic.oup.com/joc/article-abstract/69/1/49/5288675). *Journal of Communication, 69*(1), 49-72. 
 * **Liang, F**., Das, V., Kostyuk, N., & Hussain, M. M. (2018). [Constructing a Data‐Driven Society: China's Social Credit System as a State Surveillance Infrastructure](https://onlinelibrary.wiley.com/doi/abs/10.1002/poi3.183). *Policy & Internet, 10*(4), 415-453.

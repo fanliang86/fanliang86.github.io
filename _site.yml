@@ -3,6 +3,8 @@ output_dir: "."
 navbar:
   title: "Fan Liang"
   left:
+    - text: "Home"
+      href: index.html
     - text: "Research"
       href: research.html
     - text: "Publications"
@@ -17,9 +19,19 @@ navbar:
       href: cv.html
     - text: "Contact"
       href: Contact.html
+  right:
+    - icon: fa-envelope
+      href: mailto:fanliang@umich.edu
+    - icon: fa-google
+      href: https://scholar.google.com/citations?user=BgNaL0gAAAAJ
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/fanliang86
+      
 output:
   html_document:
     theme: paper
+    include:
+      after_body: _footer.html
     css: 'styles.css'
 
 
