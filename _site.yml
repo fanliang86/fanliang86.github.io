@@ -3,21 +3,21 @@ output_dir: "."
 navbar:
   title: "Fan Liang"
   left:
-    - text: "Home"
+    - text: "HOME"
       href: index.html
-    - text: "Research"
+    - text: "RESEARCH"
       href: research.html
-    - text: "Publications"
+    - text: "PUBLICATIONS"
       href: publications.html
-    - text: "Awards"
+    - text: "AWARDS"
       href: awards.html
-    - text: "Skills"
+    - text: "SKILLS"
       href: skills.html
-    - text: "Teaching"
+    - text: "TEACHING"
       href: teaching.html
     - text: "CV"
       href: cv.html
-    - text: "Contact"
+    - text: "CONTACT"
       href: Contact.html
   right:
     - icon: fa-envelope
