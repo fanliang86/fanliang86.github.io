@@ -9,7 +9,9 @@ Broadly construed, I am interested in: 1) the use of machine learning algorithms
 
 My most recent research employs automated content analysis to theoretically examine how the state and news media construct and frame authoritarian politics and influence global audiences on Facebook. In addition, my coauthors and I conduct mediation analyses and find that [online expression can shape how people understand their place in political life](https://www.academic.oup.com/joc/article-abstract/69/1/49/5288675). For ICT and surveillance, I use process tracing to investigative [the institutional processes and goals of big data-enabled surveillance infrastructure (i.e., China's Social Credit System)](https://www.onlinelibrary.wiley.com/doi/abs/10.1002/poi3.183).
 
-My research projects and publications can be found on [Google scholar](https://scholar.google.com/citations?user=BgNaL0gAAAAJ) and [ResearchGate](https://www.researchgate.net/profile/Fan_Liang15).
+I am also a member of several research groups, including [Big Data Innovation and Governance](https://big-dig.net/), [Politics and Communication Lab](https://sites.lsa.umich.edu/pac-lab/), and [Mobile Communication Collective](https://lsa.umich.edu/comm/research/research-groups/the-mobile-communication-collective).
+
+My publications and research projects can be found on [Google scholar](https://scholar.google.com/citations?user=BgNaL0gAAAAJ) and [ResearchGate](https://www.researchgate.net/profile/Fan_Liang15).
 
 #### Working Papers
 * **Liang, F.** (2019). New Silk Road on Facebook: How China’s Official Media Report and Frame National Initiative for Global Audiences. 
