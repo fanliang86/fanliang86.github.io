@@ -6,5 +6,5 @@ title: "Skills"
 
 
 * Data Analytics: R, Python, SAS, MATLAB, Octave, SPSS
-* Cloud Computing: Hadoop, Spark, TensorFlow
+* Cloud Computing: Flux, Hadoop, Spark, TensorFlow
 * Others: HTML, MySQL, Tableau, Gephi

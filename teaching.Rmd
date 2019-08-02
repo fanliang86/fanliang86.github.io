@@ -7,7 +7,8 @@ title: "Teaching"
 
 Graduate Student Instructor (GSI) and Instructor at the University of Michigan:
 
-* COMM102: Media Processes and Effects (GSI)
+* COMM 102: Media Processes and Effects (GSI)
+* COMM 221: Quantitative Skills for Communication Studies (GSI)
 * COMM 322: Faculty Directed Undergraduate Research Practicum (Instructor)
-* COMM380: Persuasion, Communication and Campaigns (GSI)
-* COMM408: Big Data, Social Media, and Politics (Instructor)
+* COMM 380: Persuasion, Communication and Campaigns (GSI)
+* COMM 408: Big Data, Social Media, and Politics (Instructor) 
