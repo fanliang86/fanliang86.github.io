@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -86,7 +86,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -235,6 +234,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -246,18 +246,6 @@ $(document).ready(function () {
   display: none;
 }
 </style>
-
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
 
 <!-- code folding -->
 
@@ -356,8 +344,7 @@ $(document).ready(function () {
 <h5>Working Papers</h5>
 <ul>
 <li><strong>Liang, F.</strong> (in-progress). Chinese Astroturfing on Twitter: Event-driven, Defense-oriented, and Inefficient Campaigns.</li>
-<li><strong>Liang, F.</strong> &amp; Chen, Y. (in-progress). Automating Citizen Classification: Examining Personal Credit Scoring Platforms in China.</li>
-<li>Campbell, S., <strong>Liang, F.</strong>, Frith, J., &amp; Zhao, F. (in-progress). Imagining 5G through Mass and Social Media Narratives: A Comparison of China and the US.</li>
+<li><strong>Liang, F.</strong> &amp; Chen, Y. (in-progress). Seeing People through Numbers: How Chinese Governments Score and Rank Citizens using Social Credit Systems.</li>
 <li><strong>Liang, F.</strong>, Zhu, Q., Weeks, B. E., &amp; Kwak, N. (2019). From Online Credibility to Political Deliberation: How Credibility Perception and Technological Competence Predict Cross-Cutting Discussion.</li>
 <li><strong>Liang, F.</strong> (2019). Who Tweets About Authoritarian Politics? Political Discussion and Online Bots During China’s 19th National Congress.</li>
 <li><strong>Liang, F.</strong> &amp; Hussain, M. M. (2018). Spreading China’s Voice via Facebook: China’s Media Bias on Global Platform.</li>
@@ -365,7 +352,7 @@ $(document).ready(function () {
 </div>
 
 <div id="footer">
-<p>Copyright &copy; 2019,  Fan Liang,  All rights reserved.</p>
+<p>Copyright &copy; 2020,  Fan Liang,  All rights reserved.</p>
 </div>
 
 
@@ -384,6 +371,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
