@@ -1,7 +1,7 @@
 name: "Fan Liang"
 output_dir: "."
 navbar:
-  title: "Fan Liang"
+  title: "FAN LIANG"
   left:
     - text: "HOME"
       href: index.html
@@ -11,8 +11,8 @@ navbar:
       href: publications.html
     - text: "AWARDS"
       href: awards.html
-    - text: "SKILLS"
-      href: skills.html
+    - text: "DATA"
+      href: data.html
     - text: "TEACHING"
       href: teaching.html
     - text: "CV"
