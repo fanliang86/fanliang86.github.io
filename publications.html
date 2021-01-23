@@ -13,6 +13,7 @@
 
 <title>Publications</title>
 
+<script src="site_libs/header-attrs-2.6/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
@@ -22,6 +23,15 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -67,6 +77,7 @@ h6 {
   text-align: left;
 }
 </style>
+
 
 <link rel="stylesheet" href="styles.css" type="text/css" />
 
@@ -317,6 +328,7 @@ $(document).ready(function () {
 <div id="peer-reviewed-articles" class="section level5">
 <h5>Peer-Reviewed Articles</h5>
 <ul>
+<li>Lee, S., <strong>Liang, F.</strong>, Hahn, L., Lane, D., Weeks, B., &amp; Kwak, N. (Forthcoming). When it seems bots have liked it: The impact of social endorsement cues and manipulability concerns on perceptions of news credibility. <em>Cyberpsychology, Behavior, and Social Networking</em>.</li>
 <li>Campbell, S., Zhao, F., Frith, J., &amp; <strong>Liang, F</strong>. (2021). <a href="https://journals.sagepub.com/doi/full/10.1177/2050157920985239">Imagining 5G: Public sense-making through advertising in China and the US</a>. <em>Mobile Media &amp; Communication</em>, 1-16.</li>
 <li><strong>Liang, F.</strong> (2020). <a href="https://journals.sagepub.com/doi/full/10.1177/2056305120947657">COVID-19 and Health Code: How digital platforms tackle the pandemic in China</a>. <em>Social Media + Society</em>, 1-4.</li>
 <li><strong>Liang, F.</strong> (2019). <a href="https://journals.sagepub.com/doi/full/10.1177/2057047319894654?casa_token=qtLLsKbJ00sAAAAA%3AgHmD9BqWrHCg2jNzEizInVmNJnK73bIKZNRElFWb7FOCDyQYDgXf73L08IMmKP_1ypkm0BoFy2nI">The New Silk Road on Facebook: How China’s official media cover and frame national initiative for global audiences</a>. <em>Communication &amp; the Public, 4</em>(4), 261-275.</li>
@@ -341,7 +353,6 @@ $(document).ready(function () {
 <div id="papers-under-review" class="section level5">
 <h5>Papers Under Review</h5>
 <ul>
-<li>Lee, S., <strong>Liang, F.</strong>, Hahn, L., Lane, D., Weeks, B., &amp; Kwak, N. (R&amp;R). When it seems bots have liked it: The impact of social endorsement cues and manipulability concerns on perceptions of news credibility. <em>Cyberpsychology, Behavior, and Social Networking</em>.</li>
 <li><strong>Liang, F.</strong>, Chen, Y., &amp; Zhao, F. (R&amp;R). The platformization of propaganda: How Xuexi Qiangguo expands persuasion and assesses citizens in China. <em>International Journal of Communication</em>.</li>
 <li>Kim, Y., Chen, Y., &amp; <strong>Liang, F.</strong> (R&amp;R). The politics and practices of care in China and South Korea’s quarantine enforcement apps for COVID-19 response. <em>New Media &amp; Society</em>.</li>
 </ul>
@@ -377,7 +388,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
