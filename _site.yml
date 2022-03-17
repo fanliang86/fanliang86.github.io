@@ -18,6 +18,8 @@ navbar:
   right:
     - icon: fa-envelope
       href: mailto:fan.liang@duke.edu
+    - icon: ai-cv ai-lg
+      href: ./file/Liang, Fan_CV.pdf
     - icon: fa-google
       href: https://scholar.google.com/citations?user=BgNaL0gAAAAJ
     - icon: fab fa-researchgate fa-lg
@@ -29,7 +31,7 @@ output:
   html_document:
     theme: paper
     include:
-      #after_body: _footer.html
+      after_body: _footer.html
     css: 'styles.css'
 
 
