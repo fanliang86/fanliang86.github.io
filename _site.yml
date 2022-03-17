@@ -7,31 +7,29 @@ navbar:
       href: index.html
     - text: "RESEARCH"
       href: research.html
-#    - text: "PUBLICATIONS"
-#      href: publications.html
     - text: "AWARDS"
       href: awards.html
-#    - text: "DATA"
-#      href: data.html
     - text: "TEACHING"
       href: teaching.html
     - text: "CV"
       href: cv.html
     - text: "CONTACT"
       href: Contact.html
-#  right:
-#    - icon: fa-envelope
-#      href: mailto:fanliang@umich.edu
-#    - icon: fa-google
-#      href: https://scholar.google.com/citations?user=BgNaL0gAAAAJ
-#    - icon: fa-twitter fa-lg
-#      href: https://twitter.com/fanliang86
+  right:
+    - icon: fa-envelope
+      href: mailto:fan.liang@duke.edu
+    - icon: fa-google
+      href: https://scholar.google.com/citations?user=BgNaL0gAAAAJ
+    - icon: fab fa-researchgate fa-lg
+      href: https://www.researchgate.net/profile/Fan_Liang15
+    - icon: fab fa-orcid fa-lg
+      href: https://orcid.org/my-orcid?orcid=0000-0001-5169-2623
       
 output:
   html_document:
     theme: paper
     include:
-      after_body: _footer.html
+      #after_body: _footer.html
     css: 'styles.css'
 
 
