@@ -13,13 +13,22 @@
 
 <title>Publications</title>
 
-<script src="site_libs/header-attrs-2.6/header-attrs.js"></script>
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -34,11 +43,6 @@
     </style>
 
 <style type="text/css">code{white-space: pre;}</style>
-<style type="text/css">
-  pre:not([class]) {
-    background-color: white;
-  }
-</style>
 <script type="text/javascript">
 if (window.hljs) {
   hljs.configure({languages: []});
@@ -51,32 +55,6 @@ if (window.hljs) {
 
 
 
-<style type="text/css">
-h1 {
-  font-size: 34px;
-}
-h1.title {
-  font-size: 38px;
-}
-h2 {
-  font-size: 30px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 18px;
-}
-h5 {
-  font-size: 16px;
-}
-h6 {
-  font-size: 12px;
-}
-.table th:not([align]) {
-  text-align: left;
-}
-</style>
 
 
 <link rel="stylesheet" href="styles.css" type="text/css" />
@@ -88,10 +66,6 @@ h6 {
   max-width: 940px;
   margin-left: auto;
   margin-right: auto;
-}
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
 }
 img {
   max-width:100%;
@@ -108,40 +82,13 @@ button.code-folding-btn:focus {
 summary {
   display: list-item;
 }
+pre code {
+  padding: 0;
+}
 </style>
 
 
 <style type="text/css">
-/* padding for bootstrap navbar */
-body {
-  padding-top: 64px;
-  padding-bottom: 40px;
-}
-/* offset scroll position for anchor links (for fixed navbar)  */
-.section h1 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h2 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h3 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h4 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h5 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h6 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
 .dropdown-submenu {
   position: relative;
 }
@@ -169,7 +116,7 @@ body {
   margin-right: -10px;
 }
 .dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
+  border-left-color: #adb5bd;
 }
 .dropdown-submenu.pull-left {
   float: none;
@@ -181,7 +128,7 @@ body {
 }
 </style>
 
-<script>
+<script type="text/javascript">
 // manage active state of menu based on current page
 $(document).ready(function () {
   // active menu anchor
@@ -192,10 +139,23 @@ $(document).ready(function () {
   var menuAnchor = $('a[href="' + href + '"]');
 
   // mark it active
-  menuAnchor.parent().addClass('active');
+  menuAnchor.tab('show');
 
   // if it's got a parent navbar menu mark it active as well
   menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
 });
 </script>
 
@@ -207,7 +167,6 @@ $(document).ready(function () {
   max-height: 500px;
   min-height: 44px;
   overflow-y: auto;
-  background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
@@ -315,7 +274,7 @@ $(document).ready(function () {
   </div><!--/.container -->
 </div><!--/.navbar -->
 
-<div class="fluid-row" id="header">
+<div id="header">
 
 
 
@@ -328,6 +287,8 @@ $(document).ready(function () {
 <div id="peer-reviewed-articles" class="section level5">
 <h5>Peer-Reviewed Articles</h5>
 <ul>
+<li><strong>Liang, F.</strong>, Zhu, Q. &amp; Li, M. (forthcoming). The effects of flagging propaganda sources on news sharing: Quasi-experimental evidence from Twitter. <em>The International Journal of Press/Politics</em>.</li>
+<li><strong>Liang, F.</strong>, Chen, Y. (forthcoming). The making of “good” citizens: China’s Social Credit Systems and infrastructures of social quantification. <em>Policy &amp; Internet</em>.</li>
 <li>Jia, L. &amp; <strong>Liang, F.</strong> (2021). <a href="https://www.ingentaconnect.com/content/intellect/jdmp/2021/00000012/00000002/art00005">The globalization of TikTok: Strategies, governance, and geopolitics</a>. <em>Journal of Digital Media &amp; Policy</em>, <em>12</em>(2), 273-292.</li>
 <li>Kim, Y., Chen, Y., &amp; <strong>Liang, F.</strong> (2021). <a href="https://journals.sagepub.com/doi/full/10.1177/14614448211020752">Engineering care in pandemic techno-governance: The politics of care in China and South Korea’s COVID-19 tracking apps</a>. <em>New Media &amp; Society</em>, 1-19.</li>
 <li><strong>Liang, F.</strong>, Chen, Y., &amp; Zhao, F. (2021). <a href="https://ijoc.org/index.php/ijoc/article/view/16484/3416">The platformization of propaganda: How Xuexi Qiangguo expands persuasion and assesses citizens in China</a>. <em>International Journal of Communication</em>, <em>15</em>, 1855–1874.</li>
@@ -349,6 +310,7 @@ $(document).ready(function () {
 <div id="other-publications" class="section level5">
 <h5>Other Publications</h5>
 <ul>
+<li><strong>Liang, F.</strong> (2021). <a href="https://www.devdiscourse.com/article/business/1826212-chinas-social-credit-system-is-a-fragmented-experiment">China’s social credit system is a fragmented experiment</a>. <em>Devdiscourse</em>.</li>
 <li><strong>Liang, F.</strong> (2018). <a href="https://journals.sagepub.com/doi/full/10.1177/1742766518767973">Book review: Can the Internet strengthen democracy?</a> <em>Global Media and Communication, 14</em>(3), 368-369.</li>
 <li>Kostyuk, N., Chen, W., Das, V., <strong>Liang, F.</strong>, &amp; Hussain, M. M. (2017). <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3030347">High-tech governance through big data surveillance: Tracing the global deployment of mass surveillance infrastructures, 1995 to present</a>. SSRN, 1-38.</li>
 </ul>
@@ -356,13 +318,19 @@ $(document).ready(function () {
 <div id="papers-under-review" class="section level5">
 <h5>Papers Under Review</h5>
 <ul>
-<li><strong>Liang, F.</strong>, Zhu, Q., &amp; Li, M. (Under review). The effects of source flagging on news sharing: Quasi-experimental evidence from Twitter. <em>The International Journal of Press/Politics</em>.</li>
-<li>Campbell, S., <strong>Liang, F.</strong>, &amp; Frith, J. (Under review). Imagining 5G: Public sense-making through news articles in China and the US. <em>Computers in Human Behavior</em>.</li>
+<li>Lu, S. &amp; <strong>Liang, F.</strong> (R&amp;R). Feeling empowered by the Internet? Internet political efficacy, online network size, and online civic engagement in China. <em>Journal of Information Technology &amp; Politics</em>.</li>
+<li>Campbell, S., <strong>Liang, F.</strong>, &amp; Frith, J. (R&amp;R). Imagining 5G: Public sense-making through news articles in China and the US. <em>Computers in Human Behavior</em>.</li>
+<li><strong>Liang, Fan.</strong> &amp; Yu, H. (Under review). Playing the rating game: Exploring users’ everyday experience with Zhima Credit. <em>Information, Communication &amp; Society</em>.</li>
+<li><strong>Liang, Fan.</strong> &amp; Lu, S. (Under review). Event-based and dynamic political influencers: A longitudinal analysis of the multiplicity of Chinese influencers on Twitter. <em>Social Media + Society</em>.</li>
+<li>Campbell, S., Ross, M., Ling, R., &amp; <strong>Liang, F.</strong> (Under review) On-the-go while staying in-place: Implications of connected mobility in and around the home. <em>Journal of Computer-Mediated Communication</em>.</li>
 </ul>
 </div>
 <div id="conference-presentations" class="section level5">
 <h5>Conference Presentations</h5>
 <ul>
+<li>The 72nd International Communication Association (ICA) Conference, May 26-30, 2022. Hybrid Format</li>
+<li>The 79th Annual Midwest Political Science Association (MPSA) Conference, April 7-10, 2022. Hybrid Format</li>
+<li>Digital Transactions in Asia IV - 2022 Conference, February 10-11, 2022. Virtual Format</li>
 <li>The 71st International Communication Association (ICA) Annual Conference, 27-31 May 2021. Virtual Conference</li>
 <li>The 70th International Communication Association (ICA) Annual Conference, 21-25 May 2020. Virtual Conference</li>
 <li>The 5th International Conference on Computational Social Science, July 17-20, 2019. University of Amsterdam, The Netherlands</li>
@@ -381,7 +349,7 @@ $(document).ready(function () {
 </div>
 
 <div id="footer">
-<p>Copyright &copy; 2021,  Fan Liang,  All rights reserved.</p>
+<p>Copyright &copy; 2022,  Fan Liang,  All rights reserved.</p>
 </div>
 
 
@@ -410,7 +378,7 @@ $(document).ready(function () {
 
 $(document).ready(function () {
   $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
+    $(this).parent().toggleClass('nav-tabs-open');
   });
 });
 </script>
