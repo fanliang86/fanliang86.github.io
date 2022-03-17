@@ -7,12 +7,12 @@ navbar:
       href: index.html
     - text: "RESEARCH"
       href: research.html
-    - text: "PUBLICATIONS"
-      href: publications.html
+#    - text: "PUBLICATIONS"
+#      href: publications.html
     - text: "AWARDS"
       href: awards.html
-    - text: "DATA"
-      href: data.html
+#    - text: "DATA"
+#      href: data.html
     - text: "TEACHING"
       href: teaching.html
     - text: "CV"
