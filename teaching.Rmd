@@ -5,10 +5,26 @@ title: "Teaching"
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 
-Graduate Student Instructor (GSI) and Instructor at the University of Michigan:
+##### Instructor, Duke Kunshan University
+* CULANTH 201 New Media and Society (Fall 2021)
+* MEDIART 208 Comparative Media Systems and Chinese Mass Media (Fall 2021) 
+* MEDIART 307 International Communication (Spring 2022)
 
-* COMM 102: Media Processes and Effects (GSI)
-* COMM 221: Quantitative Skills for Communication Studies (GSI)
-* COMM 322: Faculty Directed Undergraduate Research Practicum (Instructor)
-* COMM 380: Persuasion, Communication and Campaigns (GSI)
-* COMM 408: Big Data, Social Media, and Politics (Instructor) 
+##### Instructor, Technische Universität Berlin
+* China’s Rising Role in Global Communication (Spring 2021)
+
+##### Instructor, University of Michigan
+* COMM 322: Faculty Directed Undergraduate Research
+* COMM 408: Big Data, Social Media, and Politics
+
+##### Graduate Student Instructor (GSI), University of Michigan
+* COMM 102: Media Processes and Effects
+* COMM 221: Quantitative Skills for Communication Studies 
+* COMM 307: Social Networks
+* COMM 380: Persuasion, Communication and Campaigns
+
+##### Guest Lecturer
+* Transformations in the Digital Society, University of Groningen (Fall 2020)
+* COMM 466 Global Digital Politics, University of Michigan (Winter 2020)
+* POLSCI 389 China’s Rising Global Role, University of Michigan (Winter 2020)
+* Undergraduate Research Opportunity Program (UROP), University of Michigan (Winter 2017)

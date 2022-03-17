@@ -5,7 +5,9 @@ title: "Contact"
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 
-5370 North Quad <br>
-105 South State Street<br>
-Ann Arbor, MI 48109-1285<br>
-fanliang@umich.edu<br>
+Innovation Building 3038<br>
+Duke Kunshan University<br>
+No. 8 Duke Avenue<br>
+Kunshan, Jiangsu<br>
+China, 215316<br>
+fan.liang@duke.edu<br>
