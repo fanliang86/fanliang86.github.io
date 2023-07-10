@@ -13,7 +13,7 @@
 
 <title>Fan Liang, Ph.D.</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.20/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
@@ -144,11 +144,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -177,8 +181,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -186,16 +190,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -321,6 +318,18 @@ href="https://www.researchgate.net/profile/Fan_Liang15">ResearchGate</a>.</p>
 <div id="peer-reviewed-articles" class="section level5">
 <h5>Peer-Reviewed Articles</h5>
 <ul>
+<li>Xu, P., Krueger, B., <strong>Liang, F.</strong>, Zhang, M,
+Hutchison, M., &amp; Chang, M. (Forthcoming). Media framing and public
+support for China’s Social Credit System: An experimental study, <em>New
+Media &amp; Society</em>.</li>
+<li>Tian, L. &amp; <strong>Liang, F.</strong> (Forthcoming). “How do you
+like your video cooked?” Cultural porters and Banyun in Chinese fandoms
+on Bilibili, <em>Transformative Works and Cultures</em>.</li>
+<li><strong>Liang, F.</strong> &amp; Lu, S. (2023). <a
+href="https://journals-sagepub-com.proxy.lib.duke.edu/doi/10.1177/20563051231177946">The
+dynamics of event-based political influencers on Twitter: A longitudinal
+analysis of influential accounts during Chinese political events</a>.
+<em>Social Media + Society</em>, 1-12.</li>
 <li><strong>Liang, F.</strong>, Zhu, Q., &amp; Li, M. (2022). <a
 href="https://journals.sagepub.com/doi/full/10.1177/19401612221086905">The
 effects of flagging propaganda sources on news sharing:
@@ -387,6 +396,11 @@ research</em>, 1-23.</li>
 <div id="book-chapters" class="section level5">
 <h5>Book Chapters</h5>
 <ul>
+<li><strong>Liang, F.</strong> &amp; Tian, L. (2023). <a
+href="https://www.taylorfrancis.com/chapters/edit/10.4324/9781003299899-1/citizens-users-fan-liang-leiyuan-tian">From
+citizens to users: The algorithmic turn in China’s surveillance
+apparatus</a>. In Filimowicz, M. (Ed.), <em>Algorithms &amp; Society:
+China’s digital civilization</em>. Routledge, 1-16.</li>
 <li><strong>Liang, F.</strong> (2020). Talking politics via images:
 Exploring the 2016 Chinese Internet memes war on Facebook. In Herdin, T
 &amp; Faust, M. (Eds). <a
