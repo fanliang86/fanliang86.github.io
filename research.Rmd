@@ -1,0 +1,75 @@
+---
+title: ''
+pagetitle: Fan Liang, Ph.D.
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+<link rel="stylesheet" href="academicicons/css/academicons.min.css"/>
+
+## Research
+
+<p style='text-align: justify;'> My research interests lie at the intersection of digital media, political communication, and computational social science. Using a mixed-methods approach, my ongoing research has two focal areas: 1) the integration of algorithmic decision-making and data analytics into politics and social life, and 2) the mechanism and consequence of political astroturfing and propaganda on digital platforms. </p>
+
+My publications can be found on [Google scholar](https://scholar.google.com/citations?user=BgNaL0gAAAAJ) and [ResearchGate](https://www.researchgate.net/profile/Fan_Liang15).
+
+##### Peer-Reviewed Articles
+* **Liang, F.**. & Ji, L. (2024).[Manufacturing influencers: The gatekeeping roles of MCNs (multi-channel networks) in cultural production](https://doi.org/10.1080/1369118X.2024.2396614), *Information, Communication & Society*, 1-17.
+* Li, M., **Liang, F.**, & Zhu, Q. (2024). [Examining active news avoidance across countries: A multi-level moderation analysis of news interests, news trust, and press freedom](https://journals.sagepub.com/doi/10.1177/10776990241232083), *Journalism & Mass Communication Quarterly*, 1-25.
+* Tian, L. & **Liang, F.** (2023). [Cultural porters and Banyun in Chinese fandoms on Bilibili](https://doi.org/10.3983/twc.2023.2379), *Transformative Works & Cultures*, *41*, 1-8.
+* **Liang, F.**. & Campbell, S. (2023). [Technological acceptance and social shaping of 5G: Quantitative and qualitative Insights from China and the US](https://doi.org/10.1177/17480485231206358), *International Communication Gazette*, 1-17.
+* **Liang, F.**, Zhu, Q., & Li, M. (2023). [The effects of flagging propaganda sources on news sharing: Quasi-experimental evidence from Twitter](https://journals.sagepub.com/doi/full/10.1177/19401612221086905). *The International Journal of Press/Politics*. *28*(4), 909-928.
+* Campbell, S., Ross, M. Q., **Liang, F.**, & Rich, L. (2023). [From moving about the city to moving about the home: Considering bounded spaces of connected mobility](https://ijoc.org/index.php/ijoc/article/view/20271/431), *International Journal of Communication*, *17*, 5669–5689.
+* Xu, P., Krueger, B., **Liang, F.**, Zhang, M, Hutchison, M., & Chang, M. (2023). [Media framing and public support for China’s Social Credit System: An experimental study](https://journals.sagepub.com/doi/10.1177/14614448231187823), *New Media & Society*, 1-19.
+* **Liang, F.** & Lu, S. (2023). [The dynamics of event-based political influencers on Twitter: A longitudinal analysis of influential accounts during Chinese political events](https://journals-sagepub-com.proxy.lib.duke.edu/doi/10.1177/20563051231177946). *Social Media + Society*, 1-12.
+* **Liang, F.** & Chen, Y. (2022). [The making of “good” citizens: China’s Social Credit Systems and infrastructures of social quantification](https://doi.org/10.1002/poi3.291). *Policy & Internet*. 1-22.
+* Jia, L. & **Liang, F.** (2021). [The globalization of TikTok: Strategies, governance, and geopolitics](https://www.ingentaconnect.com/content/intellect/jdmp/2021/00000012/00000002/art00005). *Journal of Digital Media & Policy*, *12*(2), 273-292.
+* Kim, Y., Chen, Y., & **Liang, F.** (2021). [Engineering care in pandemic techno-governance: The politics of care in China and South Korea’s COVID-19 tracking apps](https://journals.sagepub.com/doi/full/10.1177/14614448211020752). *New Media & Society*, 1-19.
+* **Liang, F.**, Chen, Y., & Zhao, F. (2021). [The platformization of propaganda: How Xuexi Qiangguo expands persuasion and assesses citizens in China](https://ijoc.org/index.php/ijoc/article/view/16484/3416). *International Journal of Communication*, *15*, 1855–1874.
+* Lee, S., **Liang, F.**, Hahn, L., Lane, D., Weeks, B., & Kwak, N. (2021). [When it seems bots have liked it: The impact of social endorsement cues and manipulability concerns on perceptions of news credibility](https://www.liebertpub.com/doi/abs/10.1089/cyber.2020.0566). *Cyberpsychology, Behavior, and Social Networking*, 1-6.
+* Campbell, S., Zhao, F., Frith, J., & **Liang, F**. (2021). [Imagining 5G: Public sense-making through advertising in China and the US](https://journals.sagepub.com/doi/full/10.1177/2050157920985239). *Mobile Media & Communication*, 1-16.
+* **Liang, F.** (2020). [COVID-19 and Health Code: How digital platforms tackle the pandemic in China](https://journals.sagepub.com/doi/full/10.1177/2056305120947657). *Social Media + Society*, 1-4. 
+* **Liang, F.** (2019). [The New Silk Road on Facebook: How China’s official media cover and frame national initiative for global audiences](https://journals.sagepub.com/doi/full/10.1177/2057047319894654?casa_token=qtLLsKbJ00sAAAAA%3AgHmD9BqWrHCg2jNzEizInVmNJnK73bIKZNRElFWb7FOCDyQYDgXf73L08IMmKP_1ypkm0BoFy2nI). *Communication & the Public, 4*(4), 261-275.
+* Lane, D. S., Lee, S. S., **Liang, F.**, Kim, D. H., Shen, L., Weeks, B. E., & Kwak, N. (2019). [Social media expression and the political self](https://academic.oup.com/joc/article-abstract/69/1/49/5288675). *Journal of Communication, 69*(1), 49-72. 
+* **Liang, F.**, Das, V., Kostyuk, N., & Hussain, M. M. (2018). [Constructing a data‐driven society: China’s Social Credit System as a state surveillance infrastructure](https://onlinelibrary.wiley.com/doi/abs/10.1002/poi3.183). *Policy & Internet, 10*(4), 415-453.
+* Kwak, N., Lane, D. S., Lee, S. S., **Liang, F.**, & Weeks, B. E. (2018). [From persuasion to deliberation: Do experiences of online political persuasion facilitate dialogic openness?](https://journals.sagepub.com/doi/full/10.1177/0093650218793050). *Communication research*, 1-23.
+
+##### Book Chapters
+* **Liang, F.** & Tian, L. (2023). [From citizens to users: The algorithmic turn in China’s surveillance apparatus](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003299899-1/citizens-users-fan-liang-leiyuan-tian). In Filimowicz, M. (Ed.), *Algorithms & Society: China’s digital civilization*. Routledge, 1-16. 
+* **Liang, F.** (2020). Talking politics via images: Exploring the 2016 Chinese Internet memes war on Facebook. In Herdin, T & Faust, M. (Eds). [*De-westernizing visual culture: Perspectives from the Global South*](https://www.nomos-elibrary.de/10.5771/9783748906933/de-westernizing-visual-communication-and-cultures) (pp.163-181). Baden, Germany: Nomos Publishing.
+
+##### Conference Proceedings
+* Cao, J., Peng, X., **Liang, F.**, & Tong, T. (2024) "Voices help correlate signs and words": Analyzing deaf and hard-of-hearing (DHH) TikTokers’ content, practices, and pitfalls", *Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems*
+
+##### Other Publications
+* **Liang, F.** (2021). [China’s social credit system is a fragmented experiment](https://www.devdiscourse.com/article/business/1826212-chinas-social-credit-system-is-a-fragmented-experiment). *Devdiscourse*.
+* **Liang, F.** (2018). [Book review: Can the Internet strengthen democracy?](https://journals.sagepub.com/doi/full/10.1177/1742766518767973) *Global Media and Communication, 14*(3), 368-369. 
+* Kostyuk, N., Chen, W., Das, V., **Liang, F.**, & Hussain, M. M. (2017). [High-tech governance through big data surveillance: Tracing the global deployment of mass surveillance infrastructures, 1995 to present](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3030347). SSRN, 1-38.
+
+##### Conference Presentations
+* The 2024 International Conference on Social Media & Society, July 16-18, 2024, London, UK
+* The 74th International Communication Association (ICA) Conference, June 20-24, 2024, Gold Coast, Australia
+* The 10th Biennial Surveillance Studies Network/Surveillance & Society Conference, May 29-31, 2024, Ljubljana, Slovenia
+* The 2023 Association of Internet Researchers (AoIR) Conference, October 18-21, 2023, Philadelphia, PA
+* The 9th International Conference on Computational Social Science, July 17-20, 2023, Copenhagen, Denmark
+* The International Association for Media and Communication Research (IAMCR) Annual Conference, July 9-13, 2023, Lyon, France
+* The 73rd International Communication Association (ICA) Conference, May 25-29, 2023, Toronto, Canada
+* International Conference on Automated Decision-Making and Chinese Societies, February 1-3, 2023, Melbourne, Australia
+* The 2022 Conference of British Association for Chinese Studies (BACS), August 31 - September 1, 2022, London, UK
+* The 23rd Annual Conference of the Association of Internet Researchers (AoIR), November 2-5, Dublin, Ireland
+* The 72nd International Communication Association (ICA) Conference, May 26-30, 2022. Hybrid Format
+* The 79th Annual Midwest Political Science Association (MPSA) Conference, April 7-10, 2022. Hybrid Format
+* Digital Transactions in Asia IV - 2022 Conference, February 10-11, 2022. Virtual Format
+* The 71st International Communication Association (ICA) Annual Conference, 27-31 May 2021. Virtual Conference
+* The 70th International Communication Association (ICA) Annual Conference, 21-25 May 2020. Virtual Conference
+* The 5th International Conference on Computational Social Science, July 17-20, 2019. University of Amsterdam, The Netherlands
+* International Communication Association (ICA) Annual Conference, May 24-28, 2019. Washington, D.C.
+* The Association for Education in Journalism and Mass Communication (AEJMC) Conference. August 6-9, 2018. Washington, D.C.
+* International Association for Media and Communication Research (IAMCR) Annual Conference. June 20 - 24, 2018. University of Oregon, Eugene, OR
+* International Communication Association (ICA) Annual Conference, May 24-28, 2018. Prague, the Czech Republic
+* The 16th Chinese Internet Research Conference. May 22-23, 2018. Leiden University, Netherlands
+* Digital Transformation in China – Recent Trends and Impacts. January 19, 2018. Freie Universität Berlin, Berlin, Germany
+* Data Science Research Forum. December 1, 2017. Ann Arbor, MI
+* The 15th Chinese Internet Research Conference. June 5-6, 2017. Fort Worth, TX
+* Global Fusion Conference. October 13-14, 2017. Athens, OH
+* International Communication Association (ICA) Preconference, May 25, 2017. San Diego, CA
+* Science, Technology, and the Politics of Knowledge in Global Affairs, March 30-31, 2017. Northwestern University, Chicago, IL

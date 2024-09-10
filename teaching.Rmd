@@ -1,0 +1,43 @@
+---
+title: " "
+pagetitle: "Fan Liang, Ph.D."
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+<link rel="stylesheet" href="academicicons/css/academicons.min.css"/>
+
+
+## Teaching
+
+##### Instructor, Duke Kunshan University
+* INFOSCI 103: Computation, Society and Culture
+* MEDIA 201: New Media and Society 
+* MEDIA 207: Cultures of New Media
+* MEDIART 208: Chinese Mass Media
+* MEDIART 208: Comparative Media Systems and Chinese Mass Media 
+* MEDIART 307: International Communication 
+* MEDIART401: Campaigns and Marketing
+* SOSC 314: Computational Social Science
+* INDSTU 391: Independent Study 
+* CAPST 495: Signature Work Capstone I 
+* CAPST 496: Signature Work Capstone II
+
+##### Instructor, Technische Universität Berlin
+* China’s Rising Role in Global Communication (Spring 2021)
+
+##### Instructor, University of Michigan
+* COMM 322: Faculty Directed Undergraduate Research
+* COMM 408: Big Data, Social Media, and Politics
+
+##### Graduate Student Instructor (GSI), University of Michigan
+* COMM 102: Media Processes and Effects
+* COMM 221: Quantitative Skills for Communication Studies 
+* COMM 307: Social Networks
+* COMM 380: Persuasion, Communication and Campaigns
+
+##### Guest Lecturer
+* International Communication, Université Paris Nanterre (Fall 2022)
+* Transformations in the Digital Society, University of Groningen (Fall 2020)
+* COMM 466 Global Digital Politics, University of Michigan (Winter 2020)
+* POLSCI 389 China’s Rising Global Role, University of Michigan (Winter 2020)
+* Undergraduate Research Opportunity Program (UROP), University of Michigan (Winter 2017)

@@ -1,0 +1,19 @@
+---
+title: " "
+pagetitle: Fan Liang, Ph.D.
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+<link rel="stylesheet" href="academicicons/css/academicons.min.css"/>
+
+<img src="img/avatar.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">  
+
+<p style='text-align: justify;'> I am an [Assistant Professor of Media](https://scholars.duke.edu/person/Fan.Liang) in the Division of Social Sciences at [Duke Kunshan University](https://dukekunshan.edu.cn/). My research and teaching explore how new communication technologies construct social and political changes, and how social and political powers shape and regulate the design and operation of such technologies. </p>
+
+<p style='text-align: justify;'> My research has received recognition and support from [British Foreign, Commonwealth and Development Office](https://www.chevening.org/), [American Council of Learned Societies (ACLS)](https://www.acls.org/research/fellow.aspx?cid=1F408A97-C739-E811-80D3-000C299476DE), [Volkswagen Foundation](https://www.volkswagenstiftung.de/en/foundation), [The International Communication Association (ICA)](https://www.icahdq.org/),  [Lieberthal-Rogel Center for Chinese Studies](https://www.ii.umich.edu/lrccs/funding/student-fellowships-grants/doctoral-endowment-award.html), and other institutions. </p>
+
+<p style='text-align: justify;'> My studies have appeared in [*Policy & Internet*](https://onlinelibrary.wiley.com/doi/abs/10.1002/poi3.183), [*The International Journal of Press/Politics*](https://journals.sagepub.com/doi/full/10.1177/19401612221086905), [*Social Media + Society*](https://journals.sagepub.com/doi/full/10.1177/2056305120947657), [*Information, Communication & Society*](https://doi.org/10.1080/1369118X.2024.2396614), [*New Media & Society*](https://journals.sagepub.com/doi/full/10.1177/14614448211020752), [*Journal of Communication*](https://academic.oup.com/joc/article-abstract/69/1/49/5288675), [*International Journal of Communication*](https://ijoc.org/index.php/ijoc/article/view/16484/3416), among other peer reviewed journals. </p>
+
+<p style='text-align: justify;'> I received Ph.D. in Communication from [University of Michigan](https://umich.edu/). I also hold a M.Sc. in Political Communication from [University of Glasgow](https://www.gla.ac.uk/) and a B.A. in Public Administration from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). Prior to academia, I was a journalist in China. </p>
+  
+My CV is available [here](./CV/LiangFan_CV.pdf)

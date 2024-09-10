@@ -1,0 +1,16 @@
+---
+title: ' '
+pagetitle: Fan Liang, Ph.D.
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+<link rel="stylesheet" href="academicicons/css/academicons.min.css"/>
+
+**Fan Liang**<br>
+IB 3038<br>
+No. 8 Duke Avenue<br>
+Kunshan, Jiangsu<br>
+China, 215316<br>
+[fan.liang@duke.edu](fan.liang@duke.edu)<br>
+
+
